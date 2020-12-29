@@ -25,6 +25,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          repository:  site-policy 
 
       # Pushes to other repo 
       - name: GitHub Action to Push Subdirectories to Another Repo
@@ -34,5 +36,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
         # accepts two required args and two optional: [folder] [username] [repository name] [branch changes pushed to, defaults to main]
-          args: Policies pcihon
+          args: Policies pcihon test
 
