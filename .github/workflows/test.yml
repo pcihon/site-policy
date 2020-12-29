@@ -24,8 +24,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      # REPLACED @v2 with @master
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
 
       # Pushes to other repo 
       - name: GitHub Action to Push Subdirectories to Another Repo
