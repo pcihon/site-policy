@@ -34,5 +34,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
         # accepts two required args and two optional: [folder] [username] [repository name] [branch changes pushed to, defaults to main]
-          args: Policies test
+          args: Policies pcihon
 
