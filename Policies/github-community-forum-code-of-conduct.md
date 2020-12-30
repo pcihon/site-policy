@@ -5,17 +5,7 @@ redirect_from:
 versions:
   free-pro-team: '*'
 ---
-
-### Overview and Purpose
-
-Millions of developers host millions of projects on GitHub — both open and closed source — and we're honored to play a part in enabling collaboration across the developer community every day. Together, we all have an exciting opportunity and responsibility to make this a community we can be proud of.
-
-The GitHub Community Forum is intended to be a place for further collaboration, support, and brainstorming. This is a civilized place for connecting with other users, learning new skills, sharing feedback and ideas, and finding all the support you need for your GitHub projects. By participating in this Community, you are agreeing to the same [Terms of Service](/articles/github-terms-of-service/) that apply to GitHub.com, as well as this Community-specific Code of Conduct.
-
-With this Code of Conduct, we hope to help you understand how best to collaborate in the GitHub Community Forum, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from Community participation. We will investigate any abuse reports and may moderate public content within the Community that we determine to be in violation of either the GitHub Terms of Service or this Code of Conduct.
-
-GitHub users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub and the GitHub Community Forum a welcoming environment for all the different voices and perspectives here, while maintaining a space where people are free to express themselves.
-
+NEW TEST
 ### Pledge
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in the GitHub Community Forum a harassment-free experience for everyone, regardless of age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
