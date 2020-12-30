@@ -33,6 +33,7 @@ jobs:
         uses: crykn/copy_folder_to_another_repo_action@v1.0.5b
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          INPUT_DESTINATION_BRANCH: 'main' 
         with:
           source_folder: 'Policies'
           destination_repo: 'pcihon/test'
