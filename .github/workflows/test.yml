@@ -36,10 +36,10 @@ jobs:
         with:
           source_folder: 'Policies'
           destination_repo: 'pcihon/test'
-          destination_branch: 'main'  
+          destination_branch: 'auto-update'  
           destination_folder: 'Policies'
           user_email: 'pcihon@github.com'
           user_name: 'pcihon'
-          commit_msg: 'Mirroing changes made on parallel repo.'
+          commit_msg: 'TEST.'
 
 
