@@ -1,17 +1,4 @@
----
-title: GitHub Connect Addendum to the GitHub Enterprise License Agreement
-redirect_from:
-  - /articles/github-com-connection-addendum-to-the-github-enterprise-license-agreement/
-  - /articles/github-connect-addendum-to-the-github-enterprise-license-agreement
-versions:
-  free-pro-team: '*'
----
-LATEST TEST
-#### 4. Warranties and Disclaimers
-
-Customer warrants that it: (i) has the authority to execute this Addendum and to perform its obligations; (ii) will make no false or misleading statements or representations regarding GitHub or GitHub’s products and services; and (iii) will not take on any obligation or responsibility, or make any representation, warranty, guarantee or endorsement to anyone on GitHub’s behalf (including, without limitation, any of our products or services).
-
-CUSTOMER UNDERSTANDS AND AGREES THAT ANY MATERIALS OR INFORMATION IT IS PROVIDED OR THAT IT HAS ACCESS TO UNDER THIS ADDENDUM (INCLUDING, WITHOUT LIMITATION, ANY CONFIDENTIAL INFORMATION OR PRE-RELEASE MATERIALS) ARE PROVIDED “AS IS”, AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. GITHUB SPECIFICALLY DISCLAIMS ANY AND ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+TESTMENT.
 
 #### 5. Indemnity
 
