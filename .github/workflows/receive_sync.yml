@@ -1,0 +1,24 @@
+name: receive-sync
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ immaterial-updates ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  auto-pull-request:
+    name: PullRequestAction
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        
+      - name: pull-request-action
+        uses: vsoch/pull-request-action@1.0.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_PREFIX: "immaterial-"
+          PULL_REQUEST_BRANCH: "main"
