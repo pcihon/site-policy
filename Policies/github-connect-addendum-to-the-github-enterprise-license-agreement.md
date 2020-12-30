@@ -6,30 +6,7 @@ redirect_from:
 versions:
   free-pro-team: '*'
 ---
-PLEASE READ THIS ADDENDUM CAREFULLY AS IT AMENDS THE TERMS OF YOUR ENTERPRISE LICENSE AGREEMENT WITH US AND SPECIFICALLY GOVERNS YOUR USE OF GITHUB CONNECT (AS DEFINED BELOW), UNLESS GITHUB (“WE” OR “US”) HAS EXECUTED A SEPARATE WRITTEN ADDENDUM WITH YOU FOR THAT PURPOSE.
-
-BY ACCESSING GITHUB CONNECT, YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS ADDENDUM. IF YOU ARE ENTERING INTO THIS ADDENDUM ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY (“CUSTOMER”), YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND CUSTOMER TO THIS AGREEMENT.
-
-#### 1. GitHub.com’s Terms of Service and the GitHub Enterprise Software License Agreement Will Apply; Pricing
-
-Customer can enable unified integrations, which allow Customer’s Enterprise users to connect with GitHub.com (“GitHub Connect”). In order to access GitHub Connect, Customer must have at least one (1) account on GitHub.com and one (1) licensed instance of GitHub Enterprise. Customer’s access to GitHub Connect will also be governed by its applicable GitHub.com Terms of Service and the Agreement which are hereby incorporated by reference, (the "Generally Applicable Terms"), such that the Generally Applicable Terms will apply concurrently. In the event of a direct conflict between this Addendum and the Generally Applicable Terms, the Generally Applicable Terms will control, except with respect to any use of GitHub Connect, in which case this Addendum will control.
-
-Customer may not use GitHub Connect to violate its Generally Applicable Terms. Any use of GitHub Connect that violates the Generally Applicable Terms will also be a violation of this Addendum. GitHub Connect may be used for performing automated tasks. In addition, multiple Users may direct certain actions with GitHub Connect. Customer is responsible for actions that are performed on or through Customer’s accounts.
-
-Participation in GitHub Connect is provided at no additional charge through the Addendum Term (as defined below).
-
-#### 2. Confidentiality
-
-To the extent they do not conflict with the confidentiality obligations provided in the GitHub Enterprise Software License Agreement, GitHub Connect including any Confidential Information will be governed by the confidentiality obligations stated herein.
-
-For the purposes of this Addendum, "Confidential Information" means any business or technical information shared with the other party (specifically excluding any Content or information created or shared on the Service or Website, which Content or information is governed by other provisions in this Addendum and the Generally Applicable Terms) that either one of us discloses to the other, in writing, orally, or by any other means, and including things like computer programs, code, algorithms, data, know-how, formulas, processes, ideas, inventions (whether patentable or not), schematics and other technical, business, financial, and product development plans, names and expertise of employees and consultants, and customer lists. Each party agrees to maintain the other party's Confidential Information in confidence using at least the same degree of care as it uses in safeguarding its own Confidential Information, subject to a minimum standard of reasonable diligence and protection.
-
-#### 3. Term and Termination
-
-This Addendum begins on the Addendum Effective Date and continues for the duration of the License Term as defined in the Generally Applicable Terms (“Addendum Term”). This Addendum may be terminated in accordance with the Generally Applicable Terms. This Addendum will terminate immediately, without the requirement of notice, if Customer breaches any term of this Addendum or the Generally Applicable Terms.
-
-The rights and obligations in Sections 1, 2, 4 through 12, or which should naturally survive the termination or expiration of an agreement will survive the termination or expiration of this Addendum or the Generally Applicable Terms. Upon termination or expiration of this Addendum all of the rights and licenses granted to Customer in this Addendum will immediately cease to exist, Customer must destroy (or, at GitHub’s request, return) all of GitHub’s Confidential Information and any copies (including electronic copies) which are in Customer’s possession or control, and certify in writing compliance with these requirements.
-
+LATEST TEST
 #### 4. Warranties and Disclaimers
 
 Customer warrants that it: (i) has the authority to execute this Addendum and to perform its obligations; (ii) will make no false or misleading statements or representations regarding GitHub or GitHub’s products and services; and (iii) will not take on any obligation or responsibility, or make any representation, warranty, guarantee or endorsement to anyone on GitHub’s behalf (including, without limitation, any of our products or services).
