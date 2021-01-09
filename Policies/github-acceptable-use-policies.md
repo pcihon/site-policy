@@ -6,14 +6,7 @@ versions:
   free-pro-team: '*'
 ---
 
-**Short version:** _We host a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other._
-
-Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in our [Terms of Service](/articles/github-terms-of-service), [Corporate Terms of Service](/articles/github-corporate-terms-of-service), and [Privacy Statement](/articles/github-privacy-statement). For customers subject to the [Corporate Terms of Service](/articles/github-corporate-terms-of-service), "you" and "your" refer to "Customer" or "Users". "We", "us", "our" refer to "GitHub".
-
-### 1. Compliance with Laws and Regulations
-You are responsible for using the Service in compliance with all applicable laws, regulations, and all of our Acceptable Use Policies. These policies may be updated from time to time and are provided below, as well as in our [Terms of Service](/articles/github-terms-of-service) and [Corporate Terms of Service](/articles/github-corporate-terms-of-service).
-
-### 2. Content Restrictions
+TEST ### 2. Content Restrictions
 Under no circumstances will Users upload, post, host, execute, or transmit any Content to any repositories that:
 
 - is unlawful or promotes unlawful activities;
