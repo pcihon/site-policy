@@ -20,5 +20,5 @@ jobs:
         uses: vsoch/pull-request-action@1.0.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_PREFIX: "immaterial-"
+          BRANCH_PREFIX: "repo-"
           PULL_REQUEST_BRANCH: "main"
