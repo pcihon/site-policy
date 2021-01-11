@@ -7,9 +7,8 @@ redirect_from:
   - /github/site-policy/github-and-export-controls
 versions:
   free-pro-team: '*'
----
 
-GitHub.com, GitHub Enterprise Server, and the information you upload to either product may be subject to trade control regulations, including under the U.S. Export Administration Regulations (the EAR).
+MORE TEST
 
 GitHub’s vision is to be the global platform for developer collaboration, no matter where developers reside. We take seriously our responsibility to examine government mandates thoroughly to be certain that users and customers are not impacted beyond what is required by law. This includes keeping public repositories services, including those for open source projects, available and accessible to support personal communications involving developers in sanctioned regions.
 

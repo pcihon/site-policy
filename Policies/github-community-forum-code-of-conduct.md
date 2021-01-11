@@ -6,9 +6,6 @@ versions:
   free-pro-team: '*'
 ---
 
-### Overview and Purpose
-
-Millions of developers host millions of projects on GitHub — both open and closed source — and we're honored to play a part in enabling collaboration across the developer community every day. Together, we all have an exciting opportunity and responsibility to make this a community we can be proud of.
 
 The GitHub Community Forum is intended to be a place for further collaboration, support, and brainstorming. This is a civilized place for connecting with other users, learning new skills, sharing feedback and ideas, and finding all the support you need for your GitHub projects. By participating in this Community, you are agreeing to the same [Terms of Service](/articles/github-terms-of-service/) that apply to GitHub.com, as well as this Community-specific Code of Conduct.
 
