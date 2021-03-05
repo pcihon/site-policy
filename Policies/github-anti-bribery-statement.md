@@ -13,9 +13,7 @@ GitHub's **Code of Ethics** prohibits employees and contractors from engaging in
 >You must never pay, offer to pay, promise to pay, induce, accept, or authorize payment of anything else of value, to anyone—including to anyone in a position of power or authority, such as government officials, or in commercial transactions—in order to obtain or keep business, or secure any other improper advantage for GitHub or Microsoft. You also must not solicit or accept a bribe, kickback, or any other improper cash payment. ... [GitHub employees] are required to keep accurate and fair records of all transactions involving any expense made on GitHub’s behalf—for example, by keeping receipts and providing accurate descriptions of your expenses—or any other transaction involving the disposal or transfer of GitHub assets. Such actions are required by the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010, and anti-bribery laws of other jurisdictions in which GitHub does business and are also simply the right thing to do.
 
 GitHub's Code of Ethics elaborates on certain situations, including gifts, travel, and entertainment; facilitating payments; charitable donations; jobs; and working with representatives, as well as on who is considered a government official.
-
-GitHub's Standards of Conduct prohibit:
->Bribing government officials or other individuals to gain an unfair advantage, and taking bribes from anyone.
+TEST
 
 GitHub’s **Gifts and Entertainment Policy** explains that bribery is not permitted in connection with travel or entertainment, and provides examples to illustrate improper conduct. The policy describes proper and improper gifts, travel, and entertainment expenses; company processes for gift-giving by GitHub’s directors, officers, employees, and agents and requirements for record-keeping, penalties; and reporting of violations. It includes clear monetary thresholds for gifts along with annual limitations, with limited exceptions for gifts approved by appropriate management. The policy is clear and easily accessible to GitHub employees and contractors.
 
