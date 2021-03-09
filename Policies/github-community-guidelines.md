@@ -6,7 +6,6 @@ redirect_from:
 versions:
   free-pro-team: '*'
 ---
-TEST
 
 GitHub users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub a welcoming environment for all the different voices and perspectives in our community, while maintaining a space where people are free to express themselves.
 
