@@ -11,7 +11,6 @@ versions:
   free-pro-team: '*'
 ---
 
-For more information about the terms that govern {% data variables.product.prodname_insights %}, see your {% data variables.product.prodname_ghe_one %} subscription agreement.
 
 For the avoidance of doubt, none of the foregoing information should be considered legal advice provided by {% data variables.product.prodname_dotcom %}. You are responsible for securing your own legal analysis of the information provided herein and for your compliance with privacy and data protection laws. It is up to you whether to use {% data variables.product.prodname_insights %} to process your employees’ and users’ data, and if you do so, you are solely responsible for conducting such processing in compliance with applicable law.
 
