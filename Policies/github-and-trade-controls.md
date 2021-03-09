@@ -8,6 +8,8 @@ redirect_from:
 versions:
   free-pro-team: '*'
 
+TEST
+
 GitHub’s vision is to be the global platform for developer collaboration, no matter where developers reside. We take seriously our responsibility to examine government mandates thoroughly to be certain that users and customers are not impacted beyond what is required by law. This includes keeping public repositories services, including those for open source projects, available and accessible to support personal communications involving developers in sanctioned regions.
 
 To comply with U.S. trade control laws, GitHub made some required changes to the way we conduct our services. As U.S. trade controls laws evolve, we will continue to work with U.S. regulators about the extent to which we can offer free code collaboration services to developers in sanctioned markets. We believe that offering those free services supports U.S. foreign policy of encouraging the free flow of information and free speech in those markets. For more insight on our approach and how sanctions affect global software collaboration, read our [blog on sanctions](https://github.blog/2019-09-12-global-software-collaboration-in-the-face-of-sanctions/).
