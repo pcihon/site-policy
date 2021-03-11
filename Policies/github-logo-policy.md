@@ -7,6 +7,7 @@ redirect_from:
 versions:
   free-pro-team: '*'
 ---
+test
 
 You can add {% data variables.product.prodname_dotcom %} logos to your website or third-party application in some scenarios. For more information and specific guidelines on logo usage, see the [{% data variables.product.prodname_dotcom %} Logos and Usage page](https://github.com/logos).
 
