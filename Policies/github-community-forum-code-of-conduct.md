@@ -6,7 +6,6 @@ versions:
   free-pro-team: '*'
 ---
 
-
 The GitHub Community Forum is intended to be a place for further collaboration, support, and brainstorming. This is a civilized place for connecting with other users, learning new skills, sharing feedback and ideas, and finding all the support you need for your GitHub projects. By participating in this Community, you are agreeing to the same [Terms of Service](/articles/github-terms-of-service/) that apply to GitHub.com, as well as this Community-specific Code of Conduct.
 
 With this Code of Conduct, we hope to help you understand how best to collaborate in the GitHub Community Forum, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from Community participation. We will investigate any abuse reports and may moderate public content within the Community that we determine to be in violation of either the GitHub Terms of Service or this Code of Conduct.

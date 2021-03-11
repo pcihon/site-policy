@@ -6,7 +6,7 @@ versions:
   free-pro-team: '*'
 ---
 
-TEST ### 2. Content Restrictions
+ ### 2. Content Restrictions
 Under no circumstances will Users upload, post, host, execute, or transmit any Content to any repositories that:
 
 - is unlawful or promotes unlawful activities;
