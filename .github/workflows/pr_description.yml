@@ -1,0 +1,21 @@
+name: pr_description
+
+# Controls when the action will run. 
+on: 
+  pull_request:
+    types: [opened, synchronize]
+    branches: [ repo-sync ]
+   
+  workflow_dispatch:
+
+jobs:
+   history:
+    name: Pull Request Body
+    runs-on: ubuntu-latest
+    steps:
+      - uses: technote-space/pr-commit-body-action@v1.4.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_COMMITS: 99
+          TEMPLATE: ${COMMITS}
+          COMMIT_TYPES: feat, fix, build, ci, docs, style, perf, refactor, test, chore
