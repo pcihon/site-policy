@@ -4,7 +4,6 @@ versions:
   free-pro-team: '*'
 ---
 
-TEST
 
 When you create an Account, you're given access to lots of different features and products that are all a part of the Service. Because many of these features and products offer different functionality, they may require additional terms and conditions specific to that feature or product. Below, we've listed those features and products, along with the corresponding additional terms that apply to your use of them.
 

@@ -8,7 +8,6 @@ redirect_from:
 versions:
   free-pro-team: '*'
 
-TEST
 
 GitHub’s vision is to be the global platform for developer collaboration, no matter where developers reside. We take seriously our responsibility to examine government mandates thoroughly to be certain that users and customers are not impacted beyond what is required by law. This includes keeping public repositories services, including those for open source projects, available and accessible to support personal communications involving developers in sanctioned regions.
 

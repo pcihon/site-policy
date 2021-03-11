@@ -5,7 +5,6 @@ redirect_from:
 versions:
   free-pro-team: '*'
 ---
-NEW
 
 The GitHub Community Forum is intended to be a place for further collaboration, support, and brainstorming. This is a civilized place for connecting with other users, learning new skills, sharing feedback and ideas, and finding all the support you need for your GitHub projects. By participating in this Community, you are agreeing to the same [Terms of Service](/articles/github-terms-of-service/) that apply to GitHub.com, as well as this Community-specific Code of Conduct.
 
