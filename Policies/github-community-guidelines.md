@@ -6,11 +6,6 @@ redirect_from:
 versions:
   free-pro-team: '*'
 ---
-test
-
-
-We rely on our community members to communicate expectations, [moderate](#what-if-something-or-someone-offends-you) their projects, and {% data variables.contact.report_abuse %} or {% data variables.contact.report_content %}. By outlining what we expect to see within our community, we hope to help you understand how best to collaborate on GitHub, and what type of actions or content may violate our [Terms of Service](#legal-notices), which include our [Acceptable Use Policies](/github/site-policy/github-acceptable-use-policies). We will investigate any abuse reports and may moderate public content on our site that we determine to be in violation of our Terms of Service.
-
 ### Building a strong community
 
 The primary purpose of the GitHub community is to collaborate on software projects.
