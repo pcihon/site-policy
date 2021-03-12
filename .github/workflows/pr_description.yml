@@ -18,3 +18,4 @@ jobs:
           MAX_COMMITS: 99
           TEMPLATE: ${COMMITS}
           COMMIT_TYPES: feat, fix, build, ci, docs, style, perf, refactor, test, chore
+          COMMIT_TEMPLATE: ${MESSAGE}
