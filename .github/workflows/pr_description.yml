@@ -12,10 +12,10 @@ jobs:
     # only run if designated user created the PR
     if: contains(github.event.pull_request.user.login, 'pcihon')
     steps:
-      - uses: technote-space/pr-commit-body-action@v1
+      - uses: technote-space/pr-commit-body-action@v1.4.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_COMMITS: 99
+          # MAX_COMMITS: 99
           TEMPLATE: ${COMMITS}
           COMMIT_TYPES: feat, fix, build, ci, docs, style, perf, refactor, test, chore
           COMMIT_TEMPLATE: ${MESSAGE}
