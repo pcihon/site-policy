@@ -4,9 +4,6 @@ name: pr_description
 on: 
   pull_request:
     types: [opened, synchronize]
-    branches: [ repo-sync ]
-   
-  workflow_dispatch:
 
 jobs:
    history:
