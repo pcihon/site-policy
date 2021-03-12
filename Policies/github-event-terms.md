@@ -26,16 +26,6 @@ Participants asked to stop any harassing or other prohibited behavior are expect
 
 GitHub or its partners sometimes take photos and videos at GitHub events. By participating or attending the Event, you agree that you may appear in some of these photos and videos, and you authorize GitHub's use of them. On the flip side, if you take any photos or videos of attendees at the Event and provide them to us, you authorize us to use them in the same fashion, and represent that the attendees that appear in your photos and videos have also consented to such use.
 
-### 3. Risk, liability, and indemnity
-
-#### Assumption of risk
-Although we try to create a safe environment at the Event, accidents or other bad things happen, even to good people. We ask that you do your part to help limit the possibility that you might get injured at the Event.
-
-You agree to carefully consider the risks inherent in any activities that you choose to take part in and to take reasonable precautions before you choose to attend or participate at a GitHub event. For example, you should ensure that you are in good physical health before engaging in any physical activity at a GitHub event, and you should always drink responsibly given the risks associated with drunk driving and participating in activities while your judgment is impaired. It's always good to remember that other event guests may be less responsible than you, and may themselves create additional risk to you despite their best intentions.
-
-In short, you understand that your attendance and participation at any GitHub event is voluntary, and you agree to assume responsibility for any resulting injuries to the fullest extent permitted under applicable law.
-
-By the same token, you agree that GitHub is not responsible for any injuries or accidents that you might sustain at any events that GitHub doesn't organize or control.
 
 #### Release of liability
 You (for yourself, your heirs, personal representatives, or assigns, and anyone else who might make a claim on your behalf) hereby release, waive, discharge and covenant not to sue GitHub and its respective parent companies, subsidiaries, affiliates, officers, directors, partners, shareholders, members, agents, employees, vendors, sponsors, and volunteers from any and all claims, demands, causes of action, damages, losses or expenses (including court costs and reasonable attorneys' fees) which may arise out of, result from, or relate in any way to your attendance at the Event or any related event, except, of course, for any gross negligence or willful misconduct on our part.
