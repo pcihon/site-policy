@@ -6,7 +6,7 @@ versions:
   free-pro-team: '*'
 ---
 
-By RSVP'ing to or attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you signal that you have read, understand, and agree to the following Event Terms and Conditions.
+
 
 ### 1. Basic requirements to attend - including the [Event Code of Conduct](/articles/github-event-code-of-conduct)
 
