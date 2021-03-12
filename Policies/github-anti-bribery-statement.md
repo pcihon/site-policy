@@ -5,7 +5,8 @@ redirect_from:
 versions:
   free-pro-team: '*'
 ---
-
+TESTTEST
+TEST
 
 In addition, the training covers GitHub’s internal policies related to anti-corruption and bribery, including our non-retaliation (whistleblower) policy.
 
