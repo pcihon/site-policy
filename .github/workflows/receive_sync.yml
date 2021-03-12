@@ -22,3 +22,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_PREFIX: "repo-"
           PULL_REQUEST_BRANCH: "main"
+          PULL_REQUEST_BODY: | 
+          "<!-- START pr-commits --> 
+          <!-- END pr-commits -->"
