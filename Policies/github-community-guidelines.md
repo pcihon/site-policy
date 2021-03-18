@@ -6,9 +6,7 @@ redirect_from:
 versions:
   free-pro-team: '*'
 ---
-test
 
-### Building a strong community
 
 The primary purpose of the GitHub community is to collaborate on software projects.
 We want people to work better together. Although we maintain the site, this is a community we build *together*, and we need your help to make it the best it can be.
