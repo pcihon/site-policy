@@ -5,10 +5,6 @@ redirect_from:
 versions:
   free-pro-team: '*'
 ---
-TESTTEST
-TEST
-
-In addition, the training covers GitHub’s internal policies related to anti-corruption and bribery, including our non-retaliation (whistleblower) policy.
 
 While the U.S. FCPA is focused on interactions with government officials, the U.K. Bribery Act is broader and extends to bribing anyone, regardless of whether they are a government official. Both laws can extend to GitHub’s actions elsewhere on the globe. GitHub’s policies prohibit bribing anyone, anywhere in the world.
 
