@@ -15,9 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
       - name: set-pr-body
-        run: echo "PULL_REQUEST_BODY='This is an automated pull request to update from branch repo-sync. A summary of changes:\n <!-- START pr-commits -->\n \n<!-- END pr-commits -->'" >> $GITHUB_ENV
+        run: | 
+          echo "PULL_REQUEST_BODY='This is an automated pull request to update from branch repo-sync. A summary of changes:\n <!-- START pr-commits -->\n \n<!-- END pr-commits -->'" >> $GITHUB_ENV
+      - name: test PR body
+        run: |
+          echo "${{ env.PULL_REQUEST_BODY }}"
         
       - name: open-pull-request
         uses: vsoch/pull-request-action@1.0.3
@@ -25,4 +28,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_PREFIX: "repo-"
           PULL_REQUEST_BRANCH: "main"
+          PULL_REQUEST_BODY: ${{ env.PULL_REQUEST_BODY }}
           PULL_REQUEST_TITLE: "test"
