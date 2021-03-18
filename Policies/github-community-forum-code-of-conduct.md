@@ -6,9 +6,6 @@ versions:
   free-pro-team: '*'
 ---
 
-### Pledge
-
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in the GitHub Community Forum a harassment-free experience for everyone, regardless of age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ### Standards
 
