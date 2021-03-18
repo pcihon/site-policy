@@ -23,17 +23,7 @@ That means not only no cash or cash equivalent of any kind, but nothing of value
 ### Examples of acceptable and unacceptable gifts
 So what does “of value” mean? Keep in mind that no gifts are acceptable for government officials (ok, maybe stickers). You should always ask them what their policies permit and prohibit. But if in doubt, please run it by Legal to make sure. For example, many U.S. congresspeople will not let you take them out for dinner and pay.
 
-As for other customers or prospective customers, certain things might seem trivial but have great value to someone else. For example, although it might not seem like a big deal to you to get your friend’s daughter hired as an intern, it might be of huge value to them. But if she is not qualified and you pull strings to make it happen, then it isn't ok. In addition, if the intention is to improperly influence, anything, however small, might be considered "of value."
-
-🙅 _Here are some other things that aren't ok:_
-
-- First class airfare to GitHub offices for Executive Briefings ✈️+🍾
-- Winery tours 🍷
-- Recommending a friend’s kid to a prestigious private school for admission 🎓
-- Tickets to Disneyland 👸, the World Cup 🥅, the Olympics 🏅
-- A futbol ⚽️ autographed by a famous player
-- A contribution to a charity
-
+As for other customers or prospective customers, certain things might seem trivial but have great value to someone else. For example, although it might not seem like a big deal to you to get your friend’s daughter hired as an intern, it might be of huge value to them. But if she is not qualified and you pull strings to make it happen, then it isn't ok. In 
 🙆 _Here is some stuff that is actually ok for customers or prospective customers:_
 
 - Swag
