@@ -58,11 +58,6 @@ User Personal Information does not include aggregated, non-personally identifyin
 ##### Registration information
 We require some basic information at the time of account creation. When you create your own username and password, we ask you for a valid email address.
 
-##### Payment information
-If you sign on to a paid Account with us, send funds through the GitHub Sponsors Program, or buy an application on GitHub Marketplace, we collect your full name, address, and credit card information or PayPal information. Please note, GitHub does not process or store your credit card information or PayPal information, but our third-party payment processor does.
-
-If you list and sell an application on [GitHub Marketplace](https://github.com/marketplace), we require your banking information. If you raise funds through the [GitHub Sponsors Program](https://github.com/sponsors), we require some [additional information](/github/supporting-the-open-source-community-with-github-sponsors/becoming-a-sponsored-developer#submitting-your-bank-information) through the registration process for you to participate in and receive funds through those services and for compliance purposes.
-
 ##### Profile information
 You may choose to give us more information for your Account profile, such as your full name, an avatar which may include a photograph, your biography, your location, your company, and a URL to a third-party website. This information may include User Personal Information. Please note that your profile information may be visible to other Users of our Service.
 
