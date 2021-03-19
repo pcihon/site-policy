@@ -10,43 +10,6 @@ versions:
 
 Effective Date: July 21, 2020
 
-### 1.	DEFINITIONS
-
-Capitalized terms utilized in this Agreement and not defined herein shall have the meaning set forth in the GitHub Terms of Service located at [https://docs.github.com/articles/github-terms-of-service](/articles/github-terms-of-service) (the “Terms” or “ToS”).
-
-"Action" means a mechanism that allows you to implement custom logic without having to create an application to perform a particular task with GitHub.
-
-“Brand Features” means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as owned (or licensed) by such party from time to time.
-
-"Developer" means you, and you are the company or individual who has created the software, content, and digital materials for use in connection with GitHub and accessible via Marketplace.
-
-"Developer Application" or "Developer Product" means the Software, content and digital materials created by You for use in connection with GitHub and accessible via Marketplace and includes Actions.
-
-“End User” means any person, company or other legal entity that will acquire licenses to Developer Product via the GitHub Marketplace.
-
-“GitHub API” means GitHub’s proprietary application program interface.  Access to and use of the GitHub API is governed by the ToS.
-
-“GitHub Marketplace” or “Marketplace” means the proprietary online marketplace site operated by GitHub where Developer Products may be delivered to End Users.
-
-“Listing” means the content provided for listing the Developer Product on GitHub Marketplace.
-
-“Taxes” means any federal, state, local or foreign income, gross receipts, franchise, estimated, alternative minimum, sales, use, transfer, value added, excise, real or personal property, withholding or other tax, of any kind whatsoever, including any interest, penalties or additions to tax or additional amounts in respect of the foregoing.”
-
-“Usage Data” means Marketplace related data generated in connection with End User use of GitHub Marketplace and licensure of Developer Products, including but not limited to usage statistics and aggregated sales data. Usage Data does not include and specifically excludes banking and payment information.
-
-### 2.	PURPOSE AND LICENSE GRANT
-
-**2.1**	This Agreement sets forth the terms and conditions pursuant to which Developer may publish Listings on GitHub Marketplace for purchase of Developer Products by End Users and use in connection with GitHub.com.  This Agreement is applicable to Developer Products distributed for free and Developer Products for which End Users are charged a fee.  Developer agrees to use the GitHub Marketplace solely for purposes permitted by this Agreement or as otherwise allowed by applicable law.  As between GitHub and Developer, Developer is solely responsible for Developer Products.
-
-**2.2**	Developer grants to GitHub a non-exclusive, worldwide, transferable, sublicensable, fully paid-up, royalty-free license to (a) host, link to, reproduce, modify, publicly perform, publicly display, test, distribute, make available, license and otherwise use the Listing; (b) reproduce, perform, display, use and access the Listing for administration and demonstration purposes in connection with the operation and marketing of the Marketplace; and (c)  reproduce, display, distribute and otherwise use any Developer Brand Features furnished by Developer to GitHub under this Agreement solely for use in connection with the Marketplace and in order to fulfill its obligations under the Agreement.
-
-**2.3**	In addition to the licenses granted above, GitHub may include Developer Brand Features furnished by Developer to GitHub under this Agreement in any presentations, communications, marketing materials, press releases, customer lists (including, without limitation any customer lists, posted to GitHub websites), publicity campaigns and other advertising collateral for purposes of marketing the Marketplace.  If Developer discontinues the distribution of specific Developer Products on the Marketplace, GitHub will, after a commercially reasonable period of time, cease use of the discontinued Developer Products’ Brand Features.  Nothing in this Agreement gives Developer a right to use any GitHub Brand Features.
-
-**2.4**	Developer grants to each End User a non-exclusive, worldwide right or license to perform, display, and use the Developer Products and any content contained in, accessed by or transmitted through the Developer Products in connection with the Marketplace.  Developer must include a separate end user license agreement (“EULA”) in its Developer Products that will govern the End User’s rights to the Developer Products in lieu of the foregoing sentence.  Developer acknowledges and agrees that the applicable EULA for each Developer Product is solely between Developer and the End User.  GitHub shall not be responsible, nor have any liability whatsoever, under any EULA.
-
-**2.5**	Except for the license rights granted in this Agreement, (a) Developer retains all rights in the Developer Products; (b) each party retains all rights it has independent of this Agreement, including rights under the US Copyright Act or similar laws of other jurisdictions; and (c) each party owns all rights, title and interest in its respective Brand Features.  Each party is responsible for protecting and enforcing its own respective rights and neither party has an obligation to do so on the other’s behalf.
-
-**2.6**	Developer acknowledges and agrees that GitHub shall be entitled to provide Developer’s name, address and other contact details to any third party that reasonably, in GitHub’s sole determination, claims that Developer does not possess all of the necessary intellectual property rights in or to the Developer Products.
 
 ### 3.	RESTRICTIONS AND RESPONSIBILITIES
 

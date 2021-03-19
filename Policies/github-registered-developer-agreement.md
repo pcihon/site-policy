@@ -4,12 +4,7 @@ redirect_from:
   - /articles/github-registered-developer-agreement
 versions:
   free-pro-team: '*'
----
-GitHub is fortunate to have many developers integrating with our platform. We think that’s awesome, and we want to make that experience even better.  GitHub’s Developer Program (the “Program”) helps us to connect with you, share information with you, and support your creative efforts better than ever before. The special relationship between GitHub and the developer community that the Program creates requires a special set of terms. Welcome to the Registered Developer Agreement (“Agreement”).
 
-This Agreement is a legal agreement between you (“you”) and GitHub, Inc. (“GitHub”, “we”, or “us”).  Be sure to read this Agreement carefully - it governs your participation in the Program, and we’re only willing to let you participate in the Program if you accept all the terms of this Agreement. By clicking “I Agree” below, or by participating in the Program in any way – for example, by accessing information about GitHub products or features that aren’t yet available to the general public – you’re agreeing to be bound by all the terms of this Agreement. IF YOU’RE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND THE ENTITY TO THIS AGREEMENT, IN WHICH CASE "YOU" WILL MEAN THE ENTITY YOU REPRESENT. IF YOU DON’T HAVE SUCH AUTHORITY, OR IF YOU DON’T AGREE WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU MUST SELECT THE "CANCEL" BUTTON AND YOU MAY NOT PARTICIPATE IN THE PROGRAM. IF YOU’RE A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT THE PERSON CLICKING “I AGREE” HAS THE AUTHORITY TO BIND YOU TO THIS AGREEMENT.
-
-1. **GitHub.com’s Terms of Use Will Apply**
 
   You need to have an account on GitHub.com in order to participate in the Program.  By clicking “I Agree” at the bottom of this Agreement, you are also agreeing to be bound by the GitHub.com [Terms of Service](/articles/github-terms-of-service) (the “TOS”). In the event of a direct conflict between this Agreement and theTOS, this Agreement will control; otherwise, both agreements will apply to you concurrently.
 
