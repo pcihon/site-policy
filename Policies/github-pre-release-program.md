@@ -6,9 +6,6 @@ versions:
   free-pro-team: '*'
 ---
 
-Thanks for signing up to participate in GitHub pre-release programs!  As a trusted member of our community, your feedback on new and experimental features is important to us.  In order to share these new products and services with you – many of which are still secret and in development – we’ll need you to agree to a special set of terms. Welcome to the Pre-release Program Agreement (“Agreement”).
-
-This Agreement is a legal agreement between you (“you”, "your") and GitHub, Inc. (“GitHub”, “we”, or “us”).  Be sure to read this Agreement carefully – you can only be a pre-release program participant if you accept all the terms of this Agreement.  By clicking the “Register for the GitHub Pre-release Program” button, or by participating as a pre-release program participant in any way – for example, by accessing information about GitHub products or services that aren’t yet available to the general public – you’re agreeing to be bound by all the terms of this Agreement. IF YOU’RE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND THE ENTITY TO THIS AGREEMENT, IN WHICH CASE "YOU" WILL MEAN THE ENTITY YOU REPRESENT. IF YOU DON’T HAVE SUCH AUTHORITY, OR IF YOU DON’T AGREE WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU MUST NOT CLICK THE "REGISTER FOR THE GITHUB PRE-RELEASE PROGRAM" BUTTON, AND YOU CAN’T BE A PRE-RELEASE PROGRAM PARTICIPANT. IF YOU’RE A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT THE PERSON CLICKING THE "REGISTER FOR THE GITHUB PRE-RELEASE PROGRAM" BUTTON HAS THE AUTHORITY TO BIND YOU TO THIS AGREEMENT.
 
 ### 1. GitHub.com’s Terms of Use or the GitHub Enterprise Software License Agreement Will Apply
 
