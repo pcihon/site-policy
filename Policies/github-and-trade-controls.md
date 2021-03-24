@@ -14,11 +14,7 @@ Although we've provided the following information below for your convenience, it
 
 ### Export overview
 
-#### GitHub.com
-
-
-
-Users are responsible for ensuring that the content they develop and share on GitHub.com complies with the U.S. export control laws, including the EAR and the U.S. International Traffic in Arms Regulations (ITAR). The cloud-hosted service offering available at [GitHub.com](https://github.com) has not been designed to host data subject to the ITAR and does not currently offer the ability to restrict repository access by country. If you are looking to collaborate on ITAR- or other export-controlled data, we recommend you consider [GitHub Enterprise Server](https://enterprise.github.com), GitHub's on-premises offering.
+#### GitHub.co
 
 U.S. trade control laws restrict what GitHub.com services can be made available to users in certain countries and territories. GitHub may allow users in or ordinarily resident in countries and territories subject to U.S. sanctions to access certain free GitHub.com services for personal communications in accordance to authorizations issued by the U.S. Treasury Department’s Office of Foreign Assets Controls (OFAC). Persons in or ordinarily resident in these countries and territories are prohibited from using IP proxies, VPNs, or other methods to disguise their location when accessing GitHub.com services, and may only use GitHub.com for non-commercial, personal communications.
 
