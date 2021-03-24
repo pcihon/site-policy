@@ -29,7 +29,7 @@ jobs:
           BRANCH_PREFIX: "repo-"
           PULL_REQUEST_BRANCH: "main"
           PULL_REQUEST_BODY: "This is an automated pull request to update from branch repo-sync. A summary of changes:\n <!-- START pr-commits -->\n \n<!-- END pr-commits -->"
-          PULL_REQUEST_TITLE: "Automated update from GitHub Docs"
+          # PULL_REQUEST_TITLE: "Automated update from GitHub Docs"
           
       - uses: technote-space/pr-commit-body-action@v1.4.3
         env:
