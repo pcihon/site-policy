@@ -34,9 +34,6 @@ We require you to fill out all fields of a counter notice completely, because a 
 ***Your Counter Notice Will Be Published.***
 As noted in our [DMCA Takedown Policy](/articles/dmca-takedown-policy#d-transparency), **after redacting personal information,** we publish all complete and actionable counter notices at <https://github.com/github/dmca>. Please also note that, although we will only publicly publish redacted notices, we may provide a complete unredacted copy of any notices we receive directly to any party whose rights would be affected by it. If you are concerned about your privacy, you may have a lawyer or other legal representative file the counter notice on your behalf.
 
-***GitHub Isn't The Judge.***
-GitHub exercises little discretion in this process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
-
 ***Additional Resources.***
 If you need additional help, there are many self-help resources online. Lumen has an informative set of guides on [copyright](https://www.lumendatabase.org/topics/5) and [DMCA safe harbor](https://www.lumendatabase.org/topics/14). If you are involved with an open-source project in need of legal advice, you can contact the [Software Freedom Law Center](https://www.softwarefreedom.org/about/contact/). And if you think you have a particularly challenging case, non-profit organizations such as the [Electronic Frontier Foundation](https://www.eff.org/pages/legal-assistance) may also be willing to help directly or refer you to a lawyer.
 
