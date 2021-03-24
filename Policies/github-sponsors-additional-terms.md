@@ -10,22 +10,6 @@ Your participation in the GitHub Sponsors Program (the "Program") is subject to 
 
 ### 1. Definitions.
 
-"**GitHub Policies**" means all then-current policies and procedures of GitHub that Sponsored Developer must follow as noted in the Program, including the [GitHub Community Guidelines](/github/site-policy/github-community-guidelines).
-
-"**Sponsor**" means the User who purchased a Subscription from or paid a Sponsorship to you through your Sponsored Developer Account.
-
-"**Sponsored Developer Account**" means the account that you establish through the Program to receive payment from Sponsors.
-
-"**Sponsored Developer Content**" means all content you submit to GitHub in connection with the Program, including User-Generated Content and Your Content; your brand names, trademarks, service marks, trade names, logos, or indicia of origin ("**Sponsored Developer Marks**"); and data associated with your Sponsored Developer Account.
-
-"**Sponsorship**" means a payment paid to you through the Program and the Service.
-
-"**Subscription**" means a recurring monthly Sponsorship in exchange for goods, services, or other offers you provide to Sponsors.
-
-"**Sponsored Developer Payment**" means the net of one hundred percent (100%) of GitHub's gross monthly payments received from Sponsorships and Subscriptions to Sponsored Developer Accounts, plus any applicable Matching Funds, and other proceeds from monetization options that the Sponsored Developer elects to use, as applicable, less any discounts, taxes, fees, amounts that GitHub did not collect or which were refunded or charged back, amounts owed to any third-party in connection with the Program with respect to a Sponsored Developer Account, and other Exclusions as outlined in Section 4.
-
-"**USD**" means United States Dollar.
-
 ### 2. Acceptable Use.
 
 #### 2.1. GitHub Sponsors Program
