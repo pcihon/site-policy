@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: technote-space/pr-commit-body-action@v1.4.3
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
           # MAX_COMMITS: 99
           TEMPLATE: ${COMMITS}
           COMMIT_TYPES: feat, fix, build, ci, docs, style, perf, refactor, test, chore
