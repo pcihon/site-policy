@@ -9,10 +9,6 @@ versions:
 
 ### Standards
 
-Treat the GitHub Community Forum with respect. We are a shared resource — a place to share skills, knowledge, and interests through ongoing conversation.
-
-The following are not hard and fast rules, merely aids to the human judgment of our Community. Use these guidelines to keep this a clean, well-lighted place for civilized public discourse.
-
 #### *Best Practices for Building a Strong Community*
 
 - Be respectful and considerate.
